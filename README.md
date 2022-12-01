@@ -30,3 +30,24 @@ Si ya se ha hecho el add y quiero volver a una versión anterior
 
 ![Imagen nº1](6.PNG)
 ----
+La opción --oneline, nos muestra la información de cada commit en una línea.
+La opción --all, nos muestra todos los commits.
+
+![Imagen nº1](2.1.PNG)
+-----
+1. Vamos a ver el contenido del archivo README.md en el commit actual.
+
+![Imagen nº1](2.2.PNG)
+------
+
+Vamos a movernos al primer commit.
+
+![Imagen nº1](2.3.PNG)
+-----
+Cat Readme
+
+![Imagen nº1](2.4.PNG)
+------
+Por último,
+![Imagen nº1](2.5.PNG)
+-----
